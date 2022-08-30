@@ -14,6 +14,9 @@ A Yelp-like web application to search for restaurant listings by location/zip co
 * React
 * Yelp API
 
+## View the app
+On https://agreeable-playground.surge.sh/
+
 ## Local instalation
 * Clone the repo
 * In Terminal, run: npm install
