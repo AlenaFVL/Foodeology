@@ -1,4 +1,4 @@
-const API = 'g7Kz4v7Imq_Hh9Ls3tBMjSdoIt5cPsvdAFCCzmG9SskekL9Ks0VU43P5W41Ta0X9fg7ludLvz4BqfS2w-0_LXXbOUj6BxjYpa5HLN8_jA8OtWvTIWNdJ5hrpuw7oYnYx';
+const API = '***';
 
 
 const Yelp = {
